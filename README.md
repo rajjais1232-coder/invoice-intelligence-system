@@ -176,7 +176,7 @@ invoice-intelligence-system/
 1. Clone the repository:
 
    ```
-   git clone https://github.com/samarthakur412/invoice-intelligence-system.git
+   git clone https://github.com/rajjais1232-coder/invoice-intelligence-system.git
    ```
 2. Train and Save the Best Fit Models:
 
@@ -203,11 +203,13 @@ invoice-intelligence-system/
 
 <h2><a class="anchor" id=`author--contact`></a>Author & Contact</h2>
 
-Samarjeet Singh
+Raj Jaiswal
 
 Data Scientist
 
-✉️Email: sammarjeet.412@gmail.com
+✉️Email: rajjais1232@gmail.com
 
-[LinkedIn](https://www.linkedin.com/in/samarjeet-singh-1908551b7)
+[LinkedIn](www.linkedin.com/in/raj-jaiswal-644782336)
+
+
 
